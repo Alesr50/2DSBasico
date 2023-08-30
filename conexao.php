@@ -4,6 +4,9 @@ function conectar(){
 
 
  # Informações sobre o banco de dados:
+	
+
+    //Servidor, Nome do Banco, Usuario e Senha, Driver do MYSQl
     $db_host = "localhost";
     $db_nome = "dbloja";
     $db_usuario = "root";
