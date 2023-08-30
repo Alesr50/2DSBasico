@@ -12,21 +12,23 @@
 <body>
     <div class="cotainer">
         <form action="insere.php" method="post">
-            <p>Formulário de Cadastro de Produtos</p>
-            <div class="mb-3">
-                <label class="form-label">Nome do Produto</label>
-                <input type="text" name="nomeProduto" id="nome" class="form-control" placeholder="Digite nome do Produto" required>
-            </div>
-            <div class="mb-3">
-                <label class="form-label">Preço do Produto</label>
-                <input type="text" name="precoProduto" id="nome" class="form-control" placeholder="Digite o preço" required>
-            </div>
-            <div class="mb-3">
-                <label class="form-label">Marca do Produto</label>
-                <input type="text" name="marcaProduto" id="nome" class="form-control" placeholder="Digite a marca" required>
-            </div>
-            <div class="d-flex justify-content-center">
-                <button type="submit" id="button" class="btn btn-primary">Cadastrar</button>
+            <div>
+                <p>Formulário de Cadastro de Produtos</p>
+                <div class="mb-3">
+                    <label class="form-label">Nome do Produto</label>
+                    <input type="text" name="nomeProduto" id="nome" class="form-control" placeholder="Digite nome do Produto" required>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Preço do Produto</label>
+                    <input type="text" name="precoProduto" id="nome" class="form-control" placeholder="Digite o preço" required>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Marca do Produto</label>
+                    <input type="text" name="marcaProduto" id="nome" class="form-control" placeholder="Digite a marca" required>
+                </div>
+                <div class="d-flex justify-content-center">
+                    <button type="submit" id="button" class="btn btn-primary">Cadastrar</button>
+                </div>
         </form>
     </div>
 </body>
