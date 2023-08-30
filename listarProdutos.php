@@ -60,7 +60,7 @@
         </table>
 
         <div class="d-flex justify-content-center">
-            <a class="btn btn-primary" href="index.php" role="button">Voltar</a>
+            <a class="btn btn-primary" href="cadastro.php" role="button">Voltar</a>
         </div>
     </div>
 </body>

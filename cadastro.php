@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="cotainer ">
+    <div class="cotainer">
         <form action="insere.php" method="post">
             <p>Formulário de Cadastro de Produtos</p>
             <div class="mb-3">
